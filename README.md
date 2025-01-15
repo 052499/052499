@@ -24,14 +24,6 @@ I’m a **UX/UI Designer** who’s diving into **Web Development** right now. I�
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-## 📊 GitHub Stats
-
-![Khalida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhalidaMohammad&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark&icon_color=FF6C37)
-
-## 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidaMohammad&layout=compact&theme=dark)
-
 ## 📈 GitHub Activity Graph
 
 ![Khalida's Activity Graph](https://activity-graph.herokuapp.com/graph?username=KhalidaMohammad&theme=github&bg_color=000000&color=8b3ce7&line=4c4c4c&point=ffffff)
