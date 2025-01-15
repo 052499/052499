@@ -4,6 +4,7 @@ I’m a UX/UI designer who’s diving into web development right now. I’m lear
 I’d love to collaborate, so if you want to connect or chat about a project, feel free to email me at mohammadkhalidaparveen23@gmail.com. 📫
 
 Pronouns: She/Her
+
 Fun Fact: I’m always experimenting with new design ideas, and I’m fueled by coffee while I brainstorm. ☕💡
 
 Let’s create something amazing together! 🌱✨
